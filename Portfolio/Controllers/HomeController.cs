@@ -24,6 +24,12 @@ public class HomeController : Controller
         return View(projects);
     }
 
+    public IActionResult P()
+    {
+
+        return View();
+    }
+
 
     //ACCIÓN CAMBIAR IDIOMA & CREACIÓN DE COOKIE DE IDIOMA
     public IActionResult CambiarIdioma(string cultura, string urlRetorno)

@@ -1,343 +1,351 @@
 {
   "Files": [
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/obj/Debug/net8.0/scopedcss/projectbundle/Portfolio.bundle.scp.css",
-      "PackagePath": "staticwebassets/Portfolio.bundle.scp.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Portfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Portfolio.bundle.scp.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/css/footer.css",
-      "PackagePath": "staticwebassets/css/footer.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/css/index.css",
-      "PackagePath": "staticwebassets/css/index.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/css/proyectos.css",
-      "PackagePath": "staticwebassets/css/proyectos.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\css\\proyectos.css",
+      "PackagePath": "staticwebassets\\css\\proyectos.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/css/sobremi.css",
-      "PackagePath": "staticwebassets/css/sobremi.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\css\\sobremi.css",
+      "PackagePath": "staticwebassets\\css\\sobremi.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/favicon.ico",
-      "PackagePath": "staticwebassets/favicon.ico"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/img/CSS3.png",
-      "PackagePath": "staticwebassets/img/CSS3.png"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\CSS3.png",
+      "PackagePath": "staticwebassets\\img\\CSS3.png"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/img/HTML5.png",
-      "PackagePath": "staticwebassets/img/HTML5.png"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\HTML5.png",
+      "PackagePath": "staticwebassets\\img\\HTML5.png"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/img/Javascript.png",
-      "PackagePath": "staticwebassets/img/Javascript.png"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\Javascript.png",
+      "PackagePath": "staticwebassets\\img\\Javascript.png"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/img/NET_Core_Logo.svg.png",
-      "PackagePath": "staticwebassets/img/NET_Core_Logo.svg.png"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\NET_Core_Logo.svg.png",
+      "PackagePath": "staticwebassets\\img\\NET_Core_Logo.svg.png"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/img/Yo.jpg",
-      "PackagePath": "staticwebassets/img/Yo.jpg"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\Yo.jpg",
+      "PackagePath": "staticwebassets\\img\\Yo.jpg"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/img/angular.svg",
-      "PackagePath": "staticwebassets/img/angular.svg"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\angular.svg",
+      "PackagePath": "staticwebassets\\img\\angular.svg"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/img/c.svg",
-      "PackagePath": "staticwebassets/img/c.svg"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\api.png",
+      "PackagePath": "staticwebassets\\img\\api.png"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/img/ionic logo blue.svg",
-      "PackagePath": "staticwebassets/img/ionic logo blue.svg"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\c.svg",
+      "PackagePath": "staticwebassets\\img\\c.svg"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/img/mongodb-icon-1.svg",
-      "PackagePath": "staticwebassets/img/mongodb-icon-1.svg"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\ionic logo blue.svg",
+      "PackagePath": "staticwebassets\\img\\ionic logo blue.svg"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/img/next.svg",
-      "PackagePath": "staticwebassets/img/next.svg"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\mongodb-icon-1.svg",
+      "PackagePath": "staticwebassets\\img\\mongodb-icon-1.svg"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/img/pacientes.png",
-      "PackagePath": "staticwebassets/img/pacientes.png"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\next.svg",
+      "PackagePath": "staticwebassets\\img\\next.svg"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/img/reactnative.png",
-      "PackagePath": "staticwebassets/img/reactnative.png"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\pacientes.png",
+      "PackagePath": "staticwebassets\\img\\pacientes.png"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/img/sql-server.svg",
-      "PackagePath": "staticwebassets/img/sql-server.svg"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\portafolio.png",
+      "PackagePath": "staticwebassets\\img\\portafolio.png"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/img/typescript.svg",
-      "PackagePath": "staticwebassets/img/typescript.svg"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\reactnative.png",
+      "PackagePath": "staticwebassets\\img\\reactnative.png"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/img/vue.svg",
-      "PackagePath": "staticwebassets/img/vue.svg"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\sql-server.svg",
+      "PackagePath": "staticwebassets\\img\\sql-server.svg"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/img/y.jpg",
-      "PackagePath": "staticwebassets/img/y.jpg"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\typescript.svg",
+      "PackagePath": "staticwebassets\\img\\typescript.svg"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/js/site.js",
-      "PackagePath": "staticwebassets/js/site.js"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\vue.svg",
+      "PackagePath": "staticwebassets\\img\\vue.svg"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/LICENSE",
-      "PackagePath": "staticwebassets/lib/bootstrap"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\y.jpg",
+      "PackagePath": "staticwebassets\\img\\y.jpg"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/jquery-validation/LICENSE.md",
-      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/jquery-validation/dist/additional-methods.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/jquery/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/jquery/dist/jquery.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/jquery/dist/jquery.min.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "/Users/ulises/Documents/C#/Portfolio/Portfolio/wwwroot/lib/jquery/dist/jquery.min.map",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Portfolio.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Portfolio.props",
       "PackagePath": "build\\Portfolio.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Portfolio.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Portfolio.props",
       "PackagePath": "buildMultiTargeting\\Portfolio.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Portfolio.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Portfolio.props",
       "PackagePath": "buildTransitive\\Portfolio.props"
     }
   ],
