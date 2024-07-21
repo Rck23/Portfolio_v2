@@ -1,0 +1,79 @@
+
+.about {
+  width: 100%;
+  padding: 0px;
+}
+
+.about-text {
+  width: auto;
+}
+
+.Enlace_proyect {
+  text-decoration: none;
+}
+
+.main {
+  width: auto;
+  max-width: 100%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.about-text h1 {
+  color: white;
+  font-size: 75px;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+}
+
+.about-text h5 {
+  color: white;
+  letter-spacing: 2px;
+  font-size: 44px;
+  margin-bottom: 25px;
+  text-transform: capitalize;
+}
+
+.about-text h6 {
+  color: white;
+  letter-spacing: 2px;
+  font-size: 34px;
+  margin-bottom: 25px;
+  text-transform: capitalize;
+}
+
+.about-text p {
+  color: #e1e1e1;
+  letter-spacing: 1px;
+  line-height: 38px;
+  font-size: 30px;
+  margin-bottom: 45px;
+}
+
+
+.Habilidades {
+  width: 100px;
+  height: 100px;
+  margin: 0.6rem;
+  margin-bottom: 45px;
+}
+
+.contacto .btn {
+  background-color: #5dc1b9;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  padding: 9px 22px;
+  border-radius: 30px;
+  transition: .4s;
+  margin: 0 1rem 1rem 0;
+}
+
+  .contacto .btn:hover {
+      background-color: transparent;
+      border: 2px solid #5dc1b9;
+      cursor: pointer;
+  }

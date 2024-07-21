@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Carrera" xml:space="preserve">
+    <value>en Desarrollo &amp; Gestión de Software.</value>
+  </data>
+  <data name="Estudiante" xml:space="preserve">
+    <value>Ingeniero</value>
+  </data>
+  <data name="Frase" xml:space="preserve">
+    <value>Aportar conocimiento es la forma más pura de aprender.</value>
+  </data>
+  <data name="Presentacion" xml:space="preserve">
+    <value>Actualmente centrado en el desarrollo web, aprendiendo tecnologias diariamente, creando proyectos de código abierto.</value>
+  </data>
+  <data name="Saludo" xml:space="preserve">
+    <value>Hola, mi nombre es</value>
+  </data>
+  <data name="TituloPrincipal" xml:space="preserve">
+    <value>Página Principal</value>
+  </data>
+
+    <data name="1eraPresentacion" xml:space="preserve">
+    <value>Soy un apasionado de la tecnología que se ha convertido en desarrollador backend con experiencia en frontend. Autodidacta en mis tiempos libres, he adquirido experiencia en el desarrollo de aplicaciones y páginas web a través de diversos proyectos que me han permitido aprender y mejorar mis habilidades. Puedes ver algunos de mis trabajos en la sección de </value>
+  </data>
+
+  <data name="contactame" xml:space="preserve">
+    <value>puedes contactarme por los siguientes medios:</value>
+  </data>
+  <data name="contacto1" xml:space="preserve">
+    <value>Cont</value>
+  </data>
+  <data name="contacto2" xml:space="preserve">
+    <value>a</value>
+  </data>
+  <data name="contacto3" xml:space="preserve">
+    <value>cto</value>
+  </data>
+  <data name="Desarrollador" xml:space="preserve">
+    <value>&amp; Desarrollador</value>
+  </data>
+  <data name="Estudiante" xml:space="preserve">
+    <value>Ingeniero</value>
+  </data>
+  <data name="habilidad1" xml:space="preserve">
+    <value>Ha</value>
+  </data>
+  <data name="habilidad2" xml:space="preserve">
+    <value>b</value>
+  </data>
+  <data name="habilidad3" xml:space="preserve">
+    <value>ilidades</value>
+  </data>
+  <data name="Proyectos" xml:space="preserve">
+    <value>Proyectos</value>
+  </data>
+  <data name="tecnologíasFavoritas" xml:space="preserve">
+    <value>Mis tecnologías favoritas:</value>
+  </data>
+  <data name="TituloLetra" xml:space="preserve">
+    <value>S</value>
+  </data>
+  <data name="TituloPag" xml:space="preserve">
+    <value>obre Mi</value>
+  </data>
+  <data name="TituloSobreMi" xml:space="preserve">
+    <value>Sobre Mi</value>
+  </data>
+
+    <data name="TituloPro1" xml:space="preserve">
+    <value>Pro</value>
+  </data>
+  <data name="TituloPro2" xml:space="preserve">
+    <value>y</value>
+  </data>
+  <data name="TituloPro3" xml:space="preserve">
+    <value>ectos</value>
+  </data>
+  <data name="TituloProyectos" xml:space="preserve">
+    <value>Proyectos</value>
+  </data>
+</root>

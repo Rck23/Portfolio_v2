@@ -1,0 +1,31 @@
+@model IEnumerable<Proyecto>
+@using Microsoft.AspNetCore.Mvc.Localization;
+@inject IViewLocalizer localizer
+
+@if (Model is not null)
+{
+
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+
+  @foreach (var proyecto in Model)
+    {
+      <div class="col ">
+        <div class="carda h-100 l-content" >
+          <img src="@proyecto.Imagen" class="card-img-top" alt="Proyecto">
+          <div class="card-body">
+            <div class=" linea-fecha justify-content-md-start">@proyecto.Fecha</div>
+            <h3 class="card-title" >@proyecto.Titulo</h3>
+            <a class="Tecnologias btn disable">@proyecto.Tecnologia1</a>
+            <a class="Tecnologias btn disable">@proyecto.Tecnologia2</a>
+            <p class="card-text text-white">@proyecto.Descripcion</p>
+            <a href="@proyecto.Link" target="_blank" class="btn btn-proyectos">
+              <i class="bi bi-globe-americas" role="img" aria-label="Sitio Web"></i>
+              @localizer["LinkVerproyectos"]
+            </a>
+          </div>
+        </div>
+      </div>
+    }
+  </div>
+
+}

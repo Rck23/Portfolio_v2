@@ -1,0 +1,264 @@
+.btn-proyectos {
+  background-color: #5dc1b9;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 50px;
+  font-weight: bold;
+  padding: 13px 13px;
+}
+
+.btn-proyectos:hover {
+  background-color: transparent;
+  border: 2px solid #5dc1b9;
+  cursor: pointer;
+  color: white;
+}
+
+.linea-seccion {
+  min-height: 100vh;
+  padding: 25px 15px;
+  margin-bottom: 45px;
+}
+
+.linea-items {
+  max-width: 1000px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.linea-items::before {
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 100%;
+  background-color: #000;
+  left: calc(50% - 1px);
+}
+
+.linea-item {
+  margin-bottom: 30px;
+  width: 100%;
+  position: relative;
+}
+
+.linea-item:last-child {
+  margin-bottom: 0;
+}
+
+.linea-item:nth-child(odd) {
+  padding-right: calc(50% + 30px);
+  text-align: right;
+}
+
+.linea-item:nth-child(even) {
+  padding-left: calc(50% + 30px);
+}
+
+.linea-punto {
+  height: 16px;
+  width: 16px;
+  background-color: #5dc1b9;
+  position: absolute;
+  left: calc(50% - 8px);
+  border-radius: 50%;
+  top: 10px;
+}
+
+.linea-fecha {
+  font-size: 20px;
+  color: #5dc1b9;
+  margin: 6px 0 15px;
+}
+
+.linea-contenido {
+  background-color: #191919;
+  padding: 30px;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+.linea-contenido img {
+  width: 100%; /* Resta el doble del padding horizontal del ancho del contenedor */
+  height: 50%;
+  object-fit: cover;
+  border-radius: 10px; /* Redondea las esquinas de la imagen */
+  top: 0; /* Ajusta la posición de la imagen en la parte superior del contenedor */
+  left: 0; /* Ajusta la posición de la imagen en la parte izquierda del contenedor */
+  margin: 0; /* Elimina cualquier margen que pueda afectar */
+}
+
+.linea-contenido h3 {
+  font-size: 30px;
+  color: #ffffff;
+  margin: 0 0 10px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+
+.linea-contenido p {
+  color: #c8c8c8;
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 29px;
+}
+
+.TecnologiasNET {
+  background-color: #8b39be;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 50px;
+  font-size: 18px;
+  margin-bottom: 11px;
+}
+
+.TecnologiasJS {
+  background-color: #f0db4f;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 50px;
+  font-size: 18px;
+  margin-bottom: 11px;
+}
+
+.TecnologiasTS {
+  background-color: #007acc;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 50px;
+  font-size: 18px;
+  margin-bottom: 11px;
+}
+
+.TecnologiasNext {
+  background-color: #000618;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 50px;
+  font-size: 18px;
+  margin-bottom: 11px;
+}
+
+.Tecnologiaspostgresql {
+  background-color: #2f6792;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 50px;
+  font-size: 18px;
+  margin-bottom: 11px;
+}
+
+.TecnologiasMySQl {
+  background-color: #f29111;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 50px;
+  font-size: 18px;
+  margin-bottom: 11px;
+}
+
+.TecnologiasSQlServer {
+  background-color: #b71c1c;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 50px;
+  font-size: 18px;
+  margin-bottom: 11px;
+}
+
+.TecnologiasReact {
+  background-color: #61dbfb;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 50px;
+  font-size: 18px;
+  margin-bottom: 11px;
+}
+
+.TecnologiasVue {
+  background-color: #41b883;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 50px;
+  font-size: 18px;
+  margin-bottom: 11px;
+}
+
+.TecnologiasMongo {
+  background-color: #02543f;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 50px;
+  font-size: 18px;
+  margin-bottom: 11px;
+}
+
+.TecnologiasPHP {
+  background-color: #777bb3;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 50px;
+  font-size: 18px;
+  margin-bottom: 11px;
+}
+
+.TecnologiasLaravel {
+  background-color: #f05340;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 50px;
+  font-size: 18px;
+  margin-bottom: 11px;
+}
+
+@media (max-width: 992px) {
+  .btn-proyectos {
+    background-color: #5dc1b9;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    border-radius: 30px;
+    font-size: 18px;
+  }
+
+  .btn-proyectos:hover {
+    background-color: transparent;
+    border: 2px solid #5dc1b9;
+    cursor: pointer;
+    color: white;
+  }
+}
+
+@media (max-width: 767px) {
+  .linea-items::before {
+    left: 7px;
+  }
+
+  .linea-item:nth-child(odd) {
+    padding-right: 0;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+
+  .linea-item:nth-child(odd),
+  .linea-item:nth-child(even) {
+    padding-left: 37px;
+  }
+
+  .linea-punto {
+    left: 0;
+  }
+}
