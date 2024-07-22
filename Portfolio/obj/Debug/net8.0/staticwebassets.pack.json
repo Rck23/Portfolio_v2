@@ -81,12 +81,20 @@
       "PackagePath": "staticwebassets\\img\\portafolio.png"
     },
     {
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\presupuesto.png",
+      "PackagePath": "staticwebassets\\img\\presupuesto.png"
+    },
+    {
       "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\reactnative.png",
       "PackagePath": "staticwebassets\\img\\reactnative.png"
     },
     {
       "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\sql-server.svg",
       "PackagePath": "staticwebassets\\img\\sql-server.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\tareasmvc.png",
+      "PackagePath": "staticwebassets\\img\\tareasmvc.png"
     },
     {
       "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\typescript.svg",

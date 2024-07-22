@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,7 +117,92 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="VeterinariaproyectoTitulo" xml:space="preserve">
+    <value>Veterinary Patients</value>
+  </data>
+  <data name="VeterinariaproyectoFecha" xml:space="preserve">
+    <value>August 2023</value>
+  </data>
+  <data name="VeterinariaproyectoDescripcion" xml:space="preserve">
+    <value>Website providing basic patient tracking using LocalStorage and Tailwind CSS.
+    </value>
+  </data>
   <data name="LinkVerproyectos" xml:space="preserve">
     <value>View project</value>
+  </data>
+  <data name="climaproyectoDescripcion" xml:space="preserve">
+    <value>A website that allows you to search for the weather in real time by city and displays predictions for the next hours.</value>
+  </data>
+  <data name="climaproyectoFecha" xml:space="preserve">
+    <value>November 2022</value>
+  </data>
+  <data name="climaproyectoTitulo" xml:space="preserve">
+    <value>Weather Forecast</value>
+  </data>
+  <data name="eneproyectoDescripcion" xml:space="preserve">
+    <value>Project Professional Engineering Internship</value>
+  </data>
+  <data name="eneproyectoFecha" xml:space="preserve">
+    <value>April 2024</value>
+  </data>
+  <data name="eneproyectoTitulo" xml:space="preserve">
+    <value>Ecommerce (MEVN)</value>
+  </data>
+  <data name="instagramproyectoDescripcion" xml:space="preserve">
+    <value>Copy of the Instagram application for university educational purposes, managing libraries such as "vite" &amp; "dropzone".</value>
+  </data>
+  <data name="instagramproyectoFecha" xml:space="preserve">
+    <value>April 2023</value>
+  </data>
+  <data name="instagramproyectoTitulo" xml:space="preserve">
+    <value>Instagram Clone</value>
+  </data>
+  <data name="portafolioproyectoDescripcion" xml:space="preserve">
+    <value>Visit the code of this portfolio.</value>
+  </data>
+  <data name="portafolioproyectoFecha" xml:space="preserve">
+    <value>December 2022</value>
+  </data>
+  <data name="portafolioproyectoTitulo" xml:space="preserve">
+    <value>Portfolio</value>
+  </data>
+  <data name="presupuestoproyectoDescripcion" xml:space="preserve">
+    <value>This website allows you to manage your finances daily, monthly, annually, and shows different expenses and incomes, plus it features categories, transactions, reports, accounts, and types of accounts.</value>
+  </data>
+  <data name="presupuestoproyectoFecha" xml:space="preserve">
+    <value>January 2023</value>
+  </data>
+  <data name="presupuestoproyectoTitulo" xml:space="preserve">
+    <value>Budget Management</value>
+  </data>
+  <data name="String1" xml:space="preserve">
+    <value />
+  </data>
+  <data name="tareasproyectoDescripcion" xml:space="preserve">
+    <value>This website allows you to create, complete, modify, and delete tasks or anything pending (like a To Do list), tasks are displayed per user and subtasks and images can be assigned to each task (saved locally).</value>
+  </data>
+  <data name="tareasproyectoFecha" xml:space="preserve">
+    <value>February 2023</value>
+  </data>
+  <data name="tareasproyectoTitulo" xml:space="preserve">
+    <value>Tasks (MVC)</value>
+  </data>
+  <data name="tiendapiproyectoDescripcion" xml:space="preserve">
+    <value>API designed to perform all actions of an online store, it contains a Web API and two libraries (Core and Infrastructure) for its proper functioning.</value>
+  </data>
+  <data name="tiendapiproyectoFecha" xml:space="preserve">
+    <value>April 2023</value>
+  </data>
+  <data name="tiendapiproyectoTitulo" xml:space="preserve">
+    <value>Shop API</value>
+  </data>
+  <data name="XproyectoDescripcion" xml:space="preserve">
+    <value>Clone of Twitter (X) made with AWS Lambda written in Go handling API Gateway events. Connected to MongoDB Atlas.</value>
+  </data>
+  <data name="XproyectoFecha" xml:space="preserve">
+    <value>July 2024</value>
+  </data>
+  <data name="XproyectoTitulo" xml:space="preserve">
+    <value>Twitter (X) API</value>
   </data>
 </root>

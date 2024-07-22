@@ -547,7 +547,17 @@ footer p {
         margin: 2rem; /* Reduce el margen para centrar el contenido */
     }
 
+    .btn-primer-contacto, .btn {
+        display: flex;
+        flex-direction: inherit;
+        justify-content: center; /* Distribuye el espacio alrededor de los íconos */
+        align-items: center; /* Centra los íconos horizontalmente */
+        padding:55px
+    }
 
+    .btn-primer-contacto i, .btn i {
+        margin-right: 11px;
+    }
 
     .container-body {
         display: flex;
@@ -571,6 +581,7 @@ footer p {
     .btn {
         padding: 6px 12px; /* Reduce el padding de los botones */
         font-size: 85%; /* Reduce el tamaño de fuente de los botones */
+        text-align:center;
     }
 
     .redes {

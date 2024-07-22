@@ -1,16 +1,24 @@
+using Microsoft.Extensions.Localization;
 using Portfolio.Models;
 
 namespace Portfolio.Services;
 public class repoProjects
 {
+    private readonly IStringLocalizer<repoProjects> _localizer;
+
+    public repoProjects(IStringLocalizer<repoProjects> localizer)
+    {
+        _localizer = localizer;
+    }
+
     public List<Proyecto> GetProjects()
     {
         return new List<Proyecto> {
             new Proyecto
             {
-                Titulo = "Twitter (X) API",
-                Descripcion = "Clon de Twitter (X) realizado con AWS Lambda escrita en Go que maneja eventos de API Gateway. Conectado a MongoDB Atlas.",
-                Fecha = "Julio 2024",
+                Titulo = _localizer["XproyectoTitulo"],
+                Descripcion = _localizer["XproyectoDescripcion"],
+                Fecha = _localizer["XproyectoFecha"],
                 Tecnologia1 = "Golang",
                 Tecnologia2 = "MongoDB",
                 Imagen = "./img/api.png",
@@ -19,9 +27,9 @@ public class repoProjects
             },
             new Proyecto
             {
-                Titulo = "Ecommerce (MEVN)",
-                Descripcion = "Proyecto prácticas profesionales de Ing.",
-                Fecha = "Abril 2024",
+                Titulo = _localizer["eneproyectoTitulo"],
+                Descripcion = _localizer["eneproyectoDescripcion"],
+                Fecha = _localizer["eneproyectoFecha"],
                 Tecnologia1 = "Vue.js",
                 Tecnologia2 = "MongoDB",
                 Imagen = "./img/pacientes.png",
@@ -30,9 +38,9 @@ public class repoProjects
             },
             new Proyecto
             {
-                Titulo = "Pacientes Veterinaria",
-                Descripcion = "Web donde se da seguimiento a pacientes muy básico utilizando LocalStorage y Tailwind CSS.",
-                Fecha = "Agosto 2023",
+                Titulo = _localizer["VeterinariaproyectoTitulo"],
+                Descripcion = _localizer["VeterinariaproyectoDescripcion"],
+                Fecha = _localizer["VeterinariaproyectoFecha"],
                 Tecnologia1 = "JavaScript",
                 Tecnologia2 = "React.js",
                 Imagen = "./img/pacientes.png",
@@ -41,10 +49,9 @@ public class repoProjects
             },
             new Proyecto
             {
-                Titulo = "Tienda API",
-                Descripcion = "API destinada a realizar todas las acciones de una tienda online, " +
-                "contiene una Web Api y dos librerías (Core e Infrastructure) para su correcto funcionamiento.",
-                Fecha = "Abril 2023",
+                Titulo = _localizer["tiendapiproyectoTitulo"],
+                Descripcion = _localizer["tiendapiproyectoDescripcion"],
+                Fecha = _localizer["tiendapiproyectoFecha"],
                 Tecnologia1 = "C#, .Net 6",
                 Tecnologia2 = "MySQL",
                 Imagen = "./img/api.png",
@@ -53,10 +60,9 @@ public class repoProjects
             },
             new Proyecto
             {
-                Titulo = "Instagram Clon",
-                Descripcion = "Copia de la aplicación Instagram para fines educativos universitarios, manejando" +
-                "librerias como \"vite\" & \"dropzone\".",
-                Fecha = "Abril 2023",
+                Titulo = _localizer["instagramproyectoTitulo"],
+                Descripcion = _localizer["instagramproyectoDescripcion"],
+                Fecha = _localizer["instagramproyectoFecha"],
                 Tecnologia1 = "Php, Laravel 8",
                 Tecnologia2 = "MySQL",
                 Imagen = "./img/pacientes.png",
@@ -65,38 +71,32 @@ public class repoProjects
             },
             new Proyecto
             {
-                Titulo = "Tareas (MVC)",
-                Descripcion = "Este sitio web te permite " +
-                "crear, completar, modificar & eliminar" +
-                " tareas o cualquier cosa" +
-                " tengas pendiente (como una lista To Do), " +
-                "las tareas se muestran por usuario y a cada " +
-                "tarea se le puede asignar subtareas e imagenes" +
-                "(guardadas de forma local).",
-                Fecha = "Febrero 2023",
+                Titulo = _localizer["tareasproyectoTitulo"],
+                Descripcion = _localizer["tareasproyectoDescripcion"],
+                Fecha = _localizer["tareasproyectoFecha"],
                 Tecnologia1 = "C# .Net 7",
                 Tecnologia2 = "SQL Server",
-                Imagen = "./img/pacientes.png",
+                Imagen = "./img/tareasmvc.png",
                 Link = "https://github.com/Rck23/TareasMVC"
 
             },
             new Proyecto
             {
-                Titulo = "Manejo de presupuesto",
-                Descripcion = "Este sitio web te permite manejar tus finanzas por día, mes, año y te muestra\r\n                        los diferentes gastos e ingresos, ademas cuentas con categorias, transacciones, reportes,\r\n                        cuentas y tipos de cuentas.",
-                Fecha = "Enero 2023",
+                Titulo = _localizer["presupuestoproyectoTitulo"],
+                Descripcion = _localizer["presupuestoproyectoDescripcion"],
+                Fecha = _localizer["presupuestoproyectoFecha"],
                 Tecnologia1 = "C# .Net 6",
                 Tecnologia2 = "MySQL",
-                Imagen = "./img/pacientes.png",
+                Imagen = "./img/presupuesto.png",
                 Link = "https://github.com/Rck23/Manejo-Presupuesto"
 
             },
          
             new Proyecto
             {
-                Titulo = "Mi portafolio",
-                Descripcion = "Visita el código de este portafolio.",
-                Fecha = "Diciembre 2022",
+                Titulo = _localizer["portafolioproyectoTitulo"],
+                Descripcion = _localizer["portafolioproyectoDescripcion"],
+                Fecha = _localizer["portafolioproyectoFecha"],
                 Tecnologia1 = "C# .Net 6",
                 Tecnologia2 = "MVC",
                 Imagen = "./img/portafolio.png",
@@ -104,9 +104,9 @@ public class repoProjects
 
             },new Proyecto
             {
-                Titulo = "Pronóstico del Tiempo",
-                Descripcion = "Sitio web que te permite realizar una busqueda a la vez por ciudad del clima en tiempo real y\r\n                        muestra\r\n                        predicciones para las proximas horas.",
-                Fecha = "Diciembre 2021",
+                Titulo = _localizer["climaproyectoTitulo"],
+                Descripcion = _localizer["climaproyectoDescripcion"],
+                Fecha = _localizer["climaproyectoFecha"],
                 Tecnologia1 = "JavaScript",
                 Tecnologia2 = "React.js",
                 Imagen = "./img/pacientes.png",

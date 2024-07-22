@@ -70,9 +70,6 @@ C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portf
 C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Views.Shared._Layout.en.resources
 C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Views.Shared._Layout.es.resources
 C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Views.Shared._Layout.fr.resources
-C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Views.Shared._ListProjects.en.resources
-C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Views.Shared._ListProjects.es.resources
-C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Views.Shared._ListProjects.fr.resources
 C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.csproj.GenerateResource.cache
 C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.AssemblyInfoInputs.cache
@@ -100,3 +97,9 @@ C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\refin
 C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.pdb
 C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.genruntimeconfig.cache
 C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\ref\Portfolio.dll
+C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Services.repoProjects.en.resources
+C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Services.repoProjects.es.resources
+C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Services.repoProjects.fr.resources
+C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Views.Shared._ListProjects.en.resources
+C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Views.Shared._ListProjects.es.resources
+C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Views.Shared._ListProjects.fr.resources

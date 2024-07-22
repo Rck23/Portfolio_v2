@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "v17BOr4kvK9kvIEY7SuETqi37hEvwlRCruBNrFCcbQc=",
+  "Hash": "yu0bUVnE35UYGWq+wiZZk5fGC4jiwxr9KxQr+0rXy6c=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -397,6 +397,25 @@
       "OriginalItemSpec": "wwwroot\\img\\portafolio.png"
     },
     {
+      "Identity": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\presupuesto.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "img/presupuesto.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\presupuesto.png"
+    },
+    {
       "Identity": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\reactnative.png",
       "SourceId": "Portfolio",
       "SourceType": "Discovered",
@@ -433,6 +452,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\sql-server.svg"
+    },
+    {
+      "Identity": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\tareasmvc.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "img/tareasmvc.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\tareasmvc.png"
     },
     {
       "Identity": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\typescript.svg",
