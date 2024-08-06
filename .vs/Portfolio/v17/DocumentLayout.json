@@ -1,12 +1,106 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC139C8-F1C1-48A5-ACB1-87312F0034E2}|Portfolio\\Portfolio.csproj|c:\\users\\ulimx\\onedrive\\escritorio\\portfolio_v2\\portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDC139C8-F1C1-48A5-ACB1-87312F0034E2}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC139C8-F1C1-48A5-ACB1-87312F0034E2}|Portfolio\\Portfolio.csproj|c:\\users\\ulimx\\onedrive\\escritorio\\portfolio_v2\\portfolio\\services\\repoprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC139C8-F1C1-48A5-ACB1-87312F0034E2}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\services\\repoprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC139C8-F1C1-48A5-ACB1-87312F0034E2}|Portfolio\\Portfolio.csproj|c:\\users\\ulimx\\onedrive\\escritorio\\portfolio_v2\\portfolio\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BDC139C8-F1C1-48A5-ACB1-87312F0034E2}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC139C8-F1C1-48A5-ACB1-87312F0034E2}|Portfolio\\Portfolio.csproj|c:\\users\\ulimx\\onedrive\\escritorio\\portfolio_v2\\portfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BDC139C8-F1C1-48A5-ACB1-87312F0034E2}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC139C8-F1C1-48A5-ACB1-87312F0034E2}|Portfolio\\Portfolio.csproj|c:\\users\\ulimx\\onedrive\\escritorio\\portfolio_v2\\portfolio\\views\\shared\\_listprojects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDC139C8-F1C1-48A5-ACB1-87312F0034E2}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\shared\\_listprojects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Portfolio\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Portfolio\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAALkBAAAAAAAAAAAIwMwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-06T02:32:50.402Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Portfolio\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Portfolio\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-06T05:23:37.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T05:15:03.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "repoProjects.cs",
+              "DocumentMoniker": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\Services\\repoProjects.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Services\\repoProjects.cs",
+              "ToolTip": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\Services\\repoProjects.cs",
+              "RelativeToolTip": "Portfolio\\Services\\repoProjects.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwDoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:17:59.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ListProjects.cshtml",
+              "DocumentMoniker": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\Views\\Shared\\_ListProjects.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Shared\\_ListProjects.cshtml",
+              "ToolTip": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\Views\\Shared\\_ListProjects.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\Shared\\_ListProjects.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T02:17:48.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

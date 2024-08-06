@@ -11,7 +11,7 @@
 
 html {
   position: relative;
-  min-height: 100%;
+  min-height: 80%;
   font-size: 18px;
 }
 
@@ -19,7 +19,7 @@ html {
 
 h1 {
   color: white;
-  margin: 20px 0px 20px;
+  margin-bottom: 40px;
   font-size: 50px;
 }
 
@@ -45,17 +45,20 @@ h6 {
 }
 
 .container-body {
-  margin: 4rem 4rem;
+  margin: 2rem 2rem;
 }
 
 body {
-  margin-bottom: 50px;
-  background-color: #474b4e;
+    margin-bottom: 50px;
+
+    background: rgb(20,51,91);
+    background: linear-gradient(233deg, rgba(20,51,91,1) 0%, rgba(53,64,77,1) 60%, rgba(13,15,22,1) 100%);
 }
 
 header {
-  font-size: 22px;
-  background-color: #191919;
+    font-size: 20px;
+    background: rgb(21,51,90);
+    background: linear-gradient(270deg, rgba(21,51,90,1) 0%, rgba(35,57,84,1) 100%);
 }
 
 header ul li {
@@ -85,7 +88,7 @@ nav ul li a:hover {
 }
 
 span {
-  color: #5dc1b9;
+    color: #B19562;
 }
 
 .idioma {
@@ -95,12 +98,13 @@ span {
   margin-right: 2rem;
 }
 
-.idioma select {
-  color: #fff;
-  background-color: #191919;
-  font-size: 15px;
-  border: none;
-}
+    .idioma select {
+        color: #fff;
+        background-color: #14335b;
+        font-size: 15px;
+        border: none;
+    }
+
 
 /* PÁGINA PRINCIPAL (INDEX)*/
 .content {
@@ -122,25 +126,25 @@ aside {
 }
 
 .btn-primer-contacto {
-  background-color: #5dc1b9;
-  color: white;
-  text-decoration: none;
-  border: 2px solid transparent;
-  font-weight: bold;
-  padding: 9px 22px;
-  border-radius: 30px;
-  transition: 0.4s;
-  margin: 0 1rem 1rem 0;
-  width: auto;
-  text-align: center;
+    background-color: #B19562;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 9px 22px;
+    border-radius: 30px;
+    transition: 0.4s;
+    margin: 0 1rem 1rem 0;
+    width: auto;
+    text-align: center;
 }
 
-.btn-primer-contacto:hover {
-  background-color: transparent;
-  border: 2px solid #5dc1b9;
-  cursor: pointer;
-  color: white;
-}
+    .btn-primer-contacto:hover {
+        background-color: transparent;
+        border: 2px solid #B19562;
+        cursor: pointer;
+        color: white;
+    }
 
 /* SOBRE MI */
 .about {
@@ -199,45 +203,45 @@ aside {
 .Habilidades {
   width: 100px;
   height: 100px;
-  margin: 0.6rem;
-  margin-bottom: 45px;
+  margin: 0.8rem;
+  margin-bottom: 65px;
 }
 
 .contacto .btn {
-  background-color: #5dc1b9;
-  color: white;
-  text-decoration: none;
-  border: 2px solid transparent;
-  font-weight: bold;
-  padding: 9px 22px;
-  border-radius: 30px;
-  transition: 0.4s;
-  margin: 0 1rem 1rem 0;
+    background-color: #B19562;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 9px 22px;
+    border-radius: 30px;
+    transition: 0.4s;
+    margin: 0 1rem 1rem 0;
 }
 
-.contacto .btn:hover {
-  background-color: transparent;
-  border: 2px solid #5dc1b9;
-  cursor: pointer;
-}
+    .contacto .btn:hover {
+        background-color: transparent;
+        border: 2px solid #B19562;
+        cursor: pointer;
+    }
 
 /* PROYECTOS*/
 .btn-proyectos {
-  background-color: #5dc1b9;
-  color: white;
-  text-decoration: none;
-  border: 2px solid transparent;
-  border-radius: 50px;
-  font-weight: bold;
-  padding: 15px 13px;
+    background-color: #B19562;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    border-radius: 50px;
+    font-weight: bold;
+    padding: 15px 13px;
 }
 
-.btn-proyectos:hover {
-  background-color: transparent;
-  border: 2px solid #5dc1b9;
-  cursor: pointer;
-  color: white;
-}
+    .btn-proyectos:hover {
+        background-color: transparent;
+        border: 2px solid #B19562;
+        cursor: pointer;
+        color: white;
+    }
 
 .TecnologiasNET {
   background-color: #8b39be;
@@ -248,6 +252,42 @@ aside {
   font-size: 18px;
   margin-bottom: 11px;
 }
+    .TecnologiasNET:hover {
+        color: white;
+        border: 2px solid #B19562;
+        background-color: transparent;
+    }
+
+.TecnologiasNETMVC {
+    background-color: #5C4314;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    border-radius: 50px;
+    font-size: 18px;
+    margin-bottom: 11px;
+}
+
+    .TecnologiasNETMVC:hover {
+        color: white;
+        border: 2px solid #B19562;
+        background-color: transparent;
+    }
+
+    .TecnologiasGo {
+        background-color: #79D4FD;
+        color: white;
+        text-decoration: none;
+        border: 2px solid transparent;
+        border-radius: 50px;
+        font-size: 18px;
+        margin-bottom: 11px;
+    }
+        .TecnologiasGo:hover {
+            color: white;
+            border: 2px solid #B19562;
+            background-color: transparent;
+        }
 
 .TecnologiasJS {
   background-color: #f0db4f;
@@ -258,6 +298,11 @@ aside {
   font-size: 18px;
   margin-bottom: 11px;
 }
+    .TecnologiasJS:hover {
+        color: white;
+        border: 2px solid #B19562;
+        background-color: transparent;
+    }
 
 .TecnologiasTS {
   background-color: #007acc;
@@ -268,6 +313,11 @@ aside {
   font-size: 18px;
   margin-bottom: 11px;
 }
+    .TecnologiasTS:hover {
+        color: white;
+        border: 2px solid #B19562;
+        background-color: transparent;
+    }
 
 .TecnologiasNext {
   background-color: #000618;
@@ -278,6 +328,11 @@ aside {
   font-size: 18px;
   margin-bottom: 11px;
 }
+    .TecnologiasNext:hover {
+        color: white;
+        border: 2px solid #B19562;
+        background-color: transparent;
+    }
 
 .Tecnologiaspostgresql {
   background-color: #2f6792;
@@ -288,6 +343,11 @@ aside {
   font-size: 18px;
   margin-bottom: 11px;
 }
+    .Tecnologiaspostgresql:hover {
+        color: white;
+        border: 2px solid #B19562;
+        background-color: transparent;
+    }
 
 .TecnologiasMySQl {
   background-color: #f29111;
@@ -298,6 +358,11 @@ aside {
   font-size: 18px;
   margin-bottom: 11px;
 }
+    .TecnologiasMySQl:hover {
+        color: white;
+        border: 2px solid #B19562;
+        background-color: transparent;
+    }
 
 .TecnologiasSQlServer {
   background-color: #b71c1c;
@@ -308,6 +373,11 @@ aside {
   font-size: 18px;
   margin-bottom: 11px;
 }
+    .TecnologiasSQlServer:hover {
+        color: white;
+        border: 2px solid #B19562;
+        background-color: transparent;
+    }
 
 .TecnologiasReact {
   background-color: #61dbfb;
@@ -318,6 +388,11 @@ aside {
   font-size: 18px;
   margin-bottom: 11px;
 }
+    .TecnologiasReact:hover {
+        color: white;
+        border: 2px solid #B19562;
+        background-color: transparent;
+    }
 
 .TecnologiasVue {
   background-color: #41b883;
@@ -328,6 +403,11 @@ aside {
   font-size: 18px;
   margin-bottom: 11px;
 }
+    .TecnologiasVue:hover {
+        color: white;
+        border: 2px solid #B19562;
+        background-color: transparent;
+    }
 
 .TecnologiasMongo {
   background-color: #02543f;
@@ -338,6 +418,11 @@ aside {
   font-size: 18px;
   margin-bottom: 11px;
 }
+    .TecnologiasMongo:hover {
+        color: white;
+        border: 2px solid #B19562;
+        background-color: transparent;
+    }
 
 .TecnologiasPHP {
   background-color: #777bb3;
@@ -348,6 +433,11 @@ aside {
   font-size: 18px;
   margin-bottom: 11px;
 }
+    .TecnologiasPHP:hover {
+        color: white;
+        border: 2px solid #B19562;
+        background-color: transparent;
+    }
 
 .TecnologiasLaravel {
   background-color: #f05340;
@@ -358,34 +448,44 @@ aside {
   font-size: 18px;
   margin-bottom: 11px;
 }
+    .TecnologiasLaravel:hover {
+        color: white;
+        border: 2px solid #B19562;
+        background-color: transparent;
+    }
 
-
+.card-img-top {
+    width: 100%; /* Ajusta el ancho según sea necesario */
+    height: 50%; /* Altura fija */
+    object-fit: cover; /* Asegura que la imagen cubra todo el espacio sin distorsionarse */
+}
 
 
 /* FOOTER */
 footer {
-  position: absolute;
-  right: 0;
-  bottom: 0px;
-  left: 0;
-  padding: 1rem;
-  background-color: #191919;
+    position: absolute;
+    right: 0;
+    bottom: 0px;
+    left: 0;
+    padding: 1rem;
+    background: rgb(20,51,91);
+    background: linear-gradient(250deg, rgba(47,57,69,1) 0%, rgba(53,64,77,1) 17%, rgba(13,15,22,1) 100%);
 }
 
 footer p {
   font-size: 18px;
 }
 .redes a {
-  width: 35px;
-  height: 35px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #5dc1b9;
-  border-radius: 50%;
-  color: white;
-  text-decoration: none;
-  font-size: 18px;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #B19562;
+    border-radius: 50%;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
 }
 
 .redes a:hover {
@@ -447,15 +547,15 @@ footer p {
 }
 .linea-fecha {
     font-size: 20px;
-    color: #5dc1b9;
+    color: #B19562;
     margin: 6px 0 15px;
 }
 
 .social-icons a:active,
 .social-icons a:focus,
 .social-icons a:hover {
-  color: #fff;
-  background-color: #5dc1b9;
+    color: #fff;
+    background-color: #B19562;
 }
 
 .social-icons.size-sm a {
@@ -495,11 +595,11 @@ footer p {
   padding: 5px 10px; /* Espacio interno menor para tecnologías */
   margin-bottom: 11px;
 }
-.Tecnologias:hover {
-  background-color: transparent;
-  color: white;
-  border: 2px solid #5dc1b9;
-}
+    .Tecnologias:hover {
+        background-color: transparent;
+        color: white;
+        border: 2px solid #B19562;
+    }
 
 .carda {
   border-radius: 15px; /* Bordes redondeados */
@@ -528,10 +628,13 @@ footer p {
 }
 
 /* MOVIL  */
+
 @media screen and (max-width: 767px) {
     body {
-        font-size: 20px; /* Reduce el tamaño de fuente general */
+        font-size: 18px; /* Reduce el tamaño de fuente general */
+        overflow-x: hidden; /* Evita el desbordamiento horizontal */
     }
+
 
 
     h1, h3, h4, h5, h6, p, span {
@@ -543,45 +646,41 @@ footer p {
     }
 
     .container-body {
-
-        margin: 2rem; /* Reduce el margen para centrar el contenido */
+        margin: 0; /* Reduce el margen para centrar el contenido */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        overflow-x: hidden; /* Evita el desbordamiento horizontal */
     }
+
 
     .btn-primer-contacto, .btn {
         display: flex;
         flex-direction: inherit;
         justify-content: center; /* Distribuye el espacio alrededor de los íconos */
         align-items: center; /* Centra los íconos horizontalmente */
-        padding:55px
+        padding: 55px;
+        max-width: 100%; /* Asegura que los botones no excedan el ancho de la pantalla */
     }
 
-    .btn-primer-contacto i, .btn i {
-        margin-right: 11px;
-    }
+        .btn-primer-contacto i, .btn i {
+            margin-right: 0px;
+        }
 
-    .container-body {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-    }
-
-    .row {
-        flex-direction: column;
-    }
-
-    .col-lg-6, .col-lg-9 {
-        width: 100%; /* Hace que las columnas ocupen todo el ancho disponible */
-    }
 
     .img-fluid {
         max-width: 100%; /* Asegura que las imágenes no excedan el ancho de la pantalla */
     }
 
     .btn {
-        padding: 6px 12px; /* Reduce el padding de los botones */
-        font-size: 85%; /* Reduce el tamaño de fuente de los botones */
-        text-align:center;
+        padding: 6px 10px; /* Reduce el padding de los botones */
+        text-align: center;
+    }
+
+    .Habilidades {
+        margin: .2rem;
+        margin-bottom: 65px;
     }
 
     .redes {
@@ -590,15 +689,20 @@ footer p {
         align-items: center; /* Centra los íconos horizontalmente */
     }
 
+    .carda {
+        max-width: 100%; /* Asegura que las tarjetas no excedan el ancho de la pantalla */
+
+    }
+
     .copyright-text {
         text-align: center;
-        margin-bottom: 30px
+        margin-bottom: 30px;
     }
 
     .social-icons {
         display: flex;
         align-items: center; /* Centra los íconos horizontalmente */
-        gap: 35px; /* Agrega espacio entre los íconos */
+        gap: 25px; /* Agrega espacio entre los íconos */
     }
 
         /* Ajusta el tamaño de los íconos si es necesario */
@@ -609,6 +713,7 @@ footer p {
             font-size: 14px; /* Tamaño de fuente reducido */
         }
 }
+
 
 
 

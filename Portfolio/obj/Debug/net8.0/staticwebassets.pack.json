@@ -5,24 +5,8 @@
       "PackagePath": "staticwebassets\\Portfolio.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\css\\footer.css",
-      "PackagePath": "staticwebassets\\css\\footer.css"
-    },
-    {
-      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\css\\index.css",
-      "PackagePath": "staticwebassets\\css\\index.css"
-    },
-    {
-      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\css\\proyectos.css",
-      "PackagePath": "staticwebassets\\css\\proyectos.css"
-    },
-    {
       "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
-      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\css\\sobremi.css",
-      "PackagePath": "staticwebassets\\css\\sobremi.css"
     },
     {
       "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\favicon.ico",
@@ -53,44 +37,48 @@
       "PackagePath": "staticwebassets\\img\\angular.svg"
     },
     {
-      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\api.png",
-      "PackagePath": "staticwebassets\\img\\api.png"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\ap.png",
+      "PackagePath": "staticwebassets\\img\\ap.png"
     },
     {
       "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\c.svg",
       "PackagePath": "staticwebassets\\img\\c.svg"
     },
     {
-      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\ionic logo blue.svg",
-      "PackagePath": "staticwebassets\\img\\ionic logo blue.svg"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\climapp.png",
+      "PackagePath": "staticwebassets\\img\\climapp.png"
+    },
+    {
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\go.webp",
+      "PackagePath": "staticwebassets\\img\\go.webp"
+    },
+    {
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\instagram.png",
+      "PackagePath": "staticwebassets\\img\\instagram.png"
     },
     {
       "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\mongodb-icon-1.svg",
       "PackagePath": "staticwebassets\\img\\mongodb-icon-1.svg"
     },
     {
-      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\next.svg",
-      "PackagePath": "staticwebassets\\img\\next.svg"
-    },
-    {
       "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\pacientes.png",
       "PackagePath": "staticwebassets\\img\\pacientes.png"
     },
     {
-      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\portafolio.png",
-      "PackagePath": "staticwebassets\\img\\portafolio.png"
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\por.png",
+      "PackagePath": "staticwebassets\\img\\por.png"
     },
     {
       "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\presupuesto.png",
       "PackagePath": "staticwebassets\\img\\presupuesto.png"
     },
     {
-      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\reactnative.png",
-      "PackagePath": "staticwebassets\\img\\reactnative.png"
-    },
-    {
       "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\sql-server.svg",
       "PackagePath": "staticwebassets\\img\\sql-server.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\swift-apple.png",
+      "PackagePath": "staticwebassets\\img\\swift-apple.png"
     },
     {
       "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\tareasmvc.png",

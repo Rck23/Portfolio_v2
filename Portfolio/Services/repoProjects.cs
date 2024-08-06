@@ -2,9 +2,13 @@ using Microsoft.Extensions.Localization;
 using Portfolio.Models;
 
 namespace Portfolio.Services;
+
+
 public class repoProjects
 {
     private readonly IStringLocalizer<repoProjects> _localizer;
+
+    
 
     public repoProjects(IStringLocalizer<repoProjects> localizer)
     {
@@ -21,7 +25,7 @@ public class repoProjects
                 Fecha = _localizer["XproyectoFecha"],
                 Tecnologia1 = "Golang",
                 Tecnologia2 = "MongoDB",
-                Imagen = "./img/api.png",
+                Imagen = "./img/ap.png",
                 Link = "https://github.com/Rck23/XGo"
 
             },
@@ -52,9 +56,9 @@ public class repoProjects
                 Titulo = _localizer["tiendapiproyectoTitulo"],
                 Descripcion = _localizer["tiendapiproyectoDescripcion"],
                 Fecha = _localizer["tiendapiproyectoFecha"],
-                Tecnologia1 = "C#, .Net 6",
+                Tecnologia1 = "C# .Net 6",
                 Tecnologia2 = "MySQL",
-                Imagen = "./img/api.png",
+                Imagen = "./img/ap.png",
                 Link = "https://github.com/Rck23/Tienda_API"
 
             },
@@ -65,7 +69,7 @@ public class repoProjects
                 Fecha = _localizer["instagramproyectoFecha"],
                 Tecnologia1 = "Php, Laravel 8",
                 Tecnologia2 = "MySQL",
-                Imagen = "./img/pacientes.png",
+                Imagen = "./img/instagram.png",
                 Link = "https://github.com/Rck23/Instagram-Clone"
 
             },
@@ -99,7 +103,7 @@ public class repoProjects
                 Fecha = _localizer["portafolioproyectoFecha"],
                 Tecnologia1 = "C# .Net 6",
                 Tecnologia2 = "MVC",
-                Imagen = "./img/portafolio.png",
+                Imagen = "./img/por.png",
                 Link = "https://github.com/Rck23/Portfolio_v2"
 
             },new Proyecto
@@ -109,7 +113,7 @@ public class repoProjects
                 Fecha = _localizer["climaproyectoFecha"],
                 Tecnologia1 = "JavaScript",
                 Tecnologia2 = "React.js",
-                Imagen = "./img/pacientes.png",
+                Imagen = "./img/climapp.png",
                 Link = "https://github.com/Rck23/Clima_App_React"
 
             }

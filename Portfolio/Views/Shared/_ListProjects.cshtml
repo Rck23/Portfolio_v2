@@ -4,28 +4,58 @@
 
 @if (Model is not null)
 {
-
-  <div class="row row-cols-1 row-cols-md-2">
-
-  @foreach (var proyecto in Model)
+    string GetCssClassName(string technology)
     {
-      <div class="col mb-5">
-                <div class="carda h-100 l-content  h-100 d-flex flex-column">
-          <img src="@proyecto.Imagen" class=" card-img-top" alt="Proyecto">
-          <div class="card-body">
-            <div class=" linea-fecha justify-content-md-sta">@proyecto.Fecha </div>
-            <h3 class="card-title" >@proyecto.Titulo</h3>
-            <a class="Tecnologias btn disable">@proyecto.Tecnologia1</a>
-            <a class="Tecnologias btn disable">@proyecto.Tecnologia2</a>
-            <p class="card-text text-white">@proyecto.Descripcion</p>
-            <a href="@proyecto.Link" target="_blank" class="btn btn-proyectos">
-              <i class="bi bi-globe-americas" role="img" aria-label="Sitio Web"></i>
-              @localizer["LinkVerproyectos"]
-            </a>
-          </div>
-        </div>
-      </div>
+        var techLower = technology.ToLower();
+        switch (techLower)
+        {
+            case "golang":
+                return "TecnologiasGo";
+            case "mongodb":
+                return "TecnologiasMongo";
+            case "vue.js":
+                return "TecnologiasVue";
+            case "javascript":
+                return "TecnologiasJS";
+            case "react.js":
+                return "TecnologiasReact";
+            case "c# .net 6":
+            case "c# .net 7":
+                return "TecnologiasNET";
+                case "mvc":
+                return "TecnologiasNETMVC";
+            case "mysql":
+                return "TecnologiasMySQl";
+            case "sql server":
+                return "TecnologiasSQlServer";
+            case "php, laravel 8":
+                return "TecnologiasLaravel";
+
+            default:
+                return "Tecnologias"; // Clase por defecto si no coincide ninguna tecnología
+        }
     }
-  </div>
+
+    <div class="row row-cols-1 row-cols-md-2 ">
+        @foreach (var proyecto in Model)
+        {
+            <div class="col mb-5">
+                <div data-aos="zoom-in-down" data-aos-duration="900" class="carda h-100 l-content w-100 d-flex flex-column ">
+                    <img src="@proyecto.Imagen" class="card-img-top" alt="Proyecto">
+                    <div class="card-body">
+                        <div class="linea-fecha ">@proyecto.Fecha</div>
+                        <h3 class="card-title">@proyecto.Titulo</h3>
+                        <a class="@GetCssClassName(proyecto.Tecnologia1) btn disable">@proyecto.Tecnologia1</a>
+                        <a class="@GetCssClassName(proyecto.Tecnologia2) btn disable">@proyecto.Tecnologia2</a>
+                        <p class="card-text text-white">@proyecto.Descripcion</p>
+                        <a href="@proyecto.Link" target="_blank" class="btn btn-proyectos">
+                            <i class="bi bi-globe-americas mx-2" role="img" aria-label="Sitio Web"></i>
+                            @localizer["LinkVerproyectos"]
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
 
 }
