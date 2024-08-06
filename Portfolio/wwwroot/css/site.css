@@ -673,6 +673,13 @@ footer p {
         max-width: 100%; /* Asegura que las imágenes no excedan el ancho de la pantalla */
     }
 
+
+    .card-img-top {
+        width: 100%; /* Ajusta el ancho según sea necesario */
+        height: 100%; /* Altura fija */
+        object-fit: cover; /* Asegura que la imagen cubra todo el espacio sin distorsionarse */
+    }
+
     .btn {
         padding: 6px 10px; /* Reduce el padding de los botones */
         text-align: center;

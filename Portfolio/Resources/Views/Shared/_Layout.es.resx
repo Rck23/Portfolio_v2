@@ -132,4 +132,7 @@
   <data name="SobreMi" xml:space="preserve">
     <value>Sobre Mi</value>
   </data>
+  <data name="Titulo" xml:space="preserve">
+    <value>Portafolio</value>
+  </data>
 </root>

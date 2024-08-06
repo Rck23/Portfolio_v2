@@ -24,14 +24,6 @@ public class HomeController : Controller
         return View(projects);
     }
 
-    public IActionResult P()
-    {
-
-        return View();
-    }
-
-
-    //ACCIÓN CAMBIAR IDIOMA & CREACIÓN DE COOKIE DE IDIOMA
     public IActionResult CambiarIdioma(string cultura, string urlRetorno)
     {
         Response.Cookies.Append(CookieRequestCultureProvider.DefaultCookieName,
@@ -42,6 +34,7 @@ public class HomeController : Controller
 
         return LocalRedirect(urlRetorno);
     }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
