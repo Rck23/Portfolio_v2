@@ -85,6 +85,10 @@
       "PackagePath": "staticwebassets\\img\\tareasmvc.png"
     },
     {
+      "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\tienda.png",
+      "PackagePath": "staticwebassets\\img\\tienda.png"
+    },
+    {
       "Id": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\typescript.svg",
       "PackagePath": "staticwebassets\\img\\typescript.svg"
     },

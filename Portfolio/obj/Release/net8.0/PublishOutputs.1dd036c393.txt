@@ -1,0 +1,10 @@
+C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Release\net8.0\PubTmp\Out\Portfolio.exe
+C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Release\net8.0\PubTmp\Out\Portfolio.dll
+C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Release\net8.0\PubTmp\Out\Portfolio.deps.json
+C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Release\net8.0\PubTmp\Out\Portfolio.runtimeconfig.json
+C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Release\net8.0\PubTmp\Out\Portfolio.pdb
+C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Release\net8.0\PubTmp\Out\en\Portfolio.resources.dll
+C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Release\net8.0\PubTmp\Out\es\Portfolio.resources.dll
+C:\Users\ulimx\OneDrive\Escritorio\Portfolio_v2\Portfolio\obj\Release\net8.0\PubTmp\Out\fr\Portfolio.resources.dll

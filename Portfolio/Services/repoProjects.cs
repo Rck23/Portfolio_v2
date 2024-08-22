@@ -36,8 +36,8 @@ public class repoProjects
                 Fecha = _localizer["eneproyectoFecha"],
                 Tecnologia1 = "Vue.js",
                 Tecnologia2 = "MongoDB",
-                Imagen = "./img/pacientes.png",
-                Link = "https://github.som/Rck23"
+                Imagen = "./img/tienda.png",
+                Link = "https://github.com/Rck23"
 
             },
             new Proyecto
