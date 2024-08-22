@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qrWPSaE/Bvj0fQJfQzsgjS96NNvJA+ILg48367k7fSI=",
+  "Hash": "i9nSnjD7T8WsIJ92Wc4Ch7yyX9JhqEthOjnzUk4iF1s=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -414,6 +414,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\tareasmvc.png"
+    },
+    {
+      "Identity": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\tienda.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "img/tienda.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\tienda.png"
     },
     {
       "Identity": "C:\\Users\\ulimx\\OneDrive\\Escritorio\\Portfolio_v2\\Portfolio\\wwwroot\\img\\typescript.svg",
